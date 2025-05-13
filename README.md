@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 **I’m currently learning:** C/C++  
-- 🔭 **Check out my project:** [Sorting Visualizer](https://shreyanshs1.github.io/Sorting-Visualizer/)  
+- 🔭 **Check out my project:** [CareerArcade](https://careerarcade.vercel.app/)  
 - 📫 **How to reach me:** shreyanshsri1807@gmail.com  
 
 <h3 align="left">Connect with me:</h3>
@@ -53,7 +53,10 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="40" height="40"/>
+    <img src="https://th.bing.com/th/id/OIP.1fZjQpkRMKTBGN_7H5YnFwHaGL?cb=iwp2&rs=1&pid=ImgDetMain" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.VsGZUrNNHrzvAhAr-RyzTgHaHa?cb=iwp2&rs=1&pid=ImgDetMain" alt="ASP.NET" width="40" height="40"/>
   </a>
 
   <!-- Databases -->
@@ -63,11 +66,13 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" alt="MySQL" width="40" height="40"/>
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="SQL Server" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyanshs1&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshs1&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Shreyanshs1's GitHub Stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyanshs1&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Shreyanshs1&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Shreyanshs1's GitHub Stats" /><p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshs1&" alt="GitHub Streak Stats" /></p>
